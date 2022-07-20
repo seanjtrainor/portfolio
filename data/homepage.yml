@@ -1,0 +1,205 @@
+head:
+  title: "Sean Trainor's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Sean Trainor."
+  subtitle: "Data Scientist"
+  description: "Sean is a data scientist with three years of experience in healthcare analytics."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Sean"
+    URL: "mailto:seanjtrainor@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/sean-trainor-2394b2126/"
+
+    - icon: "github"
+      URL: "https://github.com/seanjtrainor"
+
+ 
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
+    or building software, I enjoy vacationing with my family and friends. 
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying data science to business. 
+    I create value for companies by understanding the financial
+    cost of problems and delivering a return-on-investment with my solutions. 
+    I enjoy learning, working with stakeholders, and making better decisions with data.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/sean-trainor-2394b2126/"
+  image:
+    x: "~/Desktop/portfolio/headshot.jpeg"
+    _2x: "~/Desktop/portfolio/headshot.jpeg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/sean-trainor-2394b2126/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/resume-matt.pdf"
+
+  items:
+    - title: "Risk Adjustment Data Analyst"
+      company: "Blue Cross Blue Shield Nebraska"
+      duration: "Jun 2021 - Present"
+
+    - title: "Data Analyst"
+      company: "Evolent Health"
+      duration: "Jun 2019 - Jun 2021"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Northwestern University"
+      year: "2018-2019"
+      degree: "Master of Science, Biostatistics"
+
+    - university: "Rockhurst University"
+      year: "2012-2016"
+      degree: "Bachelor of Science, Biochemistry"
+      
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Should you sacrafice Bunt?"
+      description: "This application helps baseball teams determine if they should bunt in a given situation."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://seanjtrainor.shinyapps.io/buntR/"
+      image:
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+  
+    
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Publications"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    # - name: "Chris Selig"
+    #   position: "Data Scientist"
+    #   content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+    #   image:
+    #     x: "img/testimonials/chris.jpg"
+    #     _2x: "img/testimonials/chris.jpg"
+    # 
+    # 
+    # 
+    # - name: "Mohana Krishna Chittoor"
+    #   position: "Lead Data Scientist, Money View"
+    #   content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+    #   image:
+    #     x: "img/testimonials/mohana.jpg"
+    #     _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Sean"
+    
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:seanjtrainor@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "--"
+  email:
+    title: "Email"
+    email: '<a href="mailto:seanjtrainor@gmail.com">seanjtrainor@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "--"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
