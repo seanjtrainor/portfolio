@@ -3,7 +3,7 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © Matt Dancho. All rights reserved.
+    copyright: © Sean Trainor. All rights reserved.
     site_logo:
       _2x: img/general/business-science-logo.png
       alt: Design & Code - Business Science
@@ -27,7 +27,7 @@ params:
     - client-and-work
     - experience
     - education
-    - testimonial
+#    - publication
     - contact
     - newsletter
 menu:

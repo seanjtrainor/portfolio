@@ -30,11 +30,11 @@ showcase:
 
 # about
 about:
-  enable: true
+  enable: false
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
+    <strong>I am an aspiring data scientist.</strong> My passion is training. But, when I am not making new courses
     or building software, I enjoy vacationing with my family and friends. 
     </p>
     <p class="lead">
@@ -55,7 +55,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "Over 3 years of experience performing data analytics on healthcare data, helping payers identify cost saving opportunities and optimizing patient outcomes."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -63,7 +63,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "/cv/resume-matt.pdf"
+    URL: "/Sean_Trainor-Data_Scientist-resume.pdf"
 
   items:
     - title: "Risk Adjustment Data Analyst"
@@ -128,7 +128,7 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Should you sacrafice Bunt?"
+    - title: "Should you sacrifice Bunt?"
       description: "This application helps baseball teams determine if they should bunt in a given situation."
       button:
         icon: "icon-arrow-right"
@@ -139,21 +139,28 @@ client_and_work:
         _2x: "img/works/app_sales_demand_forecast.jpg"
       is_even: true
 
-  
+# Publication
+  # publication:
+  #   enable: true
+  #   title: "Publications"
+  #   items:
+  #     - title: "The Relationship between Polypharmacy and Physical Activity in Those with Knee Osteoarthritis"
+  #       year: "2019"
+  #       journal: "Journal of the American Geriatric Society"
     
 
 # testimonial
-testimonial:
-  enable: true
-  title: "Publications"
-  items:
-  
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
-      image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
+# testimonial:
+#   enable: false
+#   title: "Publications"
+#   items:
+#   
+#     - name: "Justin Kurland, PhD"
+#       position: "Lead Data Scientist, Northwestern Mutual"
+#       content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+#       image:
+#         x: "img/testimonials/justin.jpg"
+#         _2x: "img/testimonials/justin.jpg"
         
     # - name: "Chris Selig"
     #   position: "Data Scientist"
