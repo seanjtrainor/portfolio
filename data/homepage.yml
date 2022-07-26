@@ -48,8 +48,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/sean-trainor-2394b2126/"
   image:
-    x: "~/Desktop/portfolio/headshot.jpeg"
-    _2x: "~/Desktop/portfolio/headshot.jpeg"
+    x: "~/Desktop/portfolio/headshot.png"
+    _2x: "~/Desktop/portfolio/headshot.png"
 
 # experience
 experience:
@@ -183,9 +183,9 @@ contact:
   enable: true
   title: "Contact Sean"
     
-  image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+   image:
+     x: "portfolio/headshot.png"
+     _2x: "portfolio/headshot.png"
     
   button:
     icon: "icon-mail-fill"
