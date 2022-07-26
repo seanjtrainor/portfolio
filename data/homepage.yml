@@ -184,8 +184,8 @@ contact:
   title: "Contact Sean"
     
    image:
-     x: "portfolio/headshot.png"
-     _2x: "portfolio/headshot.png"
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
     
   button:
     icon: "icon-mail-fill"
