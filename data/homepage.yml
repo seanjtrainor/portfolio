@@ -48,8 +48,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com"
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/headshot.png"
+    _2x: "img/headshot.png"
 
 # experience
 experience:
@@ -136,8 +136,8 @@ client_and_work:
         btnText: "Launch Application"
         URL: "https://seanjtrainor.shinyapps.io/buntR/"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/should_u_bunt.png"
+        _2x: "img/should_u_bunt.png"
       is_even: true
 
 
@@ -178,8 +178,8 @@ contact:
   title: "Contact Sean"
     
   image:
-    x: "img/headshot.png"
-    _2x: "img/headshot.png"
+    x: "img/headshot.jpg"
+    _2x: "img/headshot.jpg"
     
   button:
     icon: "icon-mail-fill"
