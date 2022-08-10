@@ -63,7 +63,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "/cv/Sean_Trainor-Data_Scientist-resume.pdf"
+    URL: "/cv/Sean_Trainor_Data_Scientist_Resume.doc"
 
   items:
     - title: "Risk Adjustment Data Analyst"
