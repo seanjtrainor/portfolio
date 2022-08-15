@@ -139,6 +139,17 @@ client_and_work:
         x: "img/should_u_bunt.png"
         _2x: "img/should_u_bunt.png"
       is_even: true
+      
+    - title: "Impact of the Infield Shift"
+      description: "This application displays the difference in expected batting average for groundballs and line drives between when the shift is in place and when it is not."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://seanjtrainor.shinyapps.io/shiftr/"
+      image:
+        x: "img/shiftr.png"
+        _2x: "img/shiftr.png"
+      is_even: true
 
 
     
